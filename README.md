@@ -1,4 +1,4 @@
-# [PROJETO PORTFOLIO]
+## Projeto Portfolio
 
 Este projeto foi baseado no **[template](https://startbootstrap.com/themes/resume/)** clique para conhecer.
 
